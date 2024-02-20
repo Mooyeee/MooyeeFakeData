@@ -59,6 +59,12 @@
             "description": "Transazione 10",
             "date": "11/02/2024",
             "value": "-280.15"
+        },
+	{
+            "id": 11,
+            "description": "Descrizione lunghissimissima per vedere che succede, chissà se esplode tutto? Lo scopriremo! :)",
+            "date": "11/02/2024",
+            "value": "-280.15"
         }
     ],
     "conto": {
