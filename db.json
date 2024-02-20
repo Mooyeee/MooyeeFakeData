@@ -1,5 +1,5 @@
 {
-    "transazioni": [
+    "movements": [
         {
             "id": 1,
             "description": "Transazione 1",
@@ -67,7 +67,7 @@
             "value": "-280.15"
         }
     ],
-    "conto": {
+    "account": {
         "id": 1,
         "name": "Il conto di Mooyee",
         "iban": "RO73PORL6874285947521345",
