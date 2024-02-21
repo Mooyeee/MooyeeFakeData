@@ -2,67 +2,67 @@
     "movements": [
         {
             "id": 1,
-            "description": "Transazione 1",
+            "description": "MindBlooming",
             "date": "20/02/2024",
             "value": "1280.00"
         },
         {
             "id": 2,
-            "description": "Transazione 2",
+            "description": "Animal Crossing",
             "date": "19/02/2024",
             "value": "-280.15"
         },
         {
             "id": 3,
-            "description": "Transazione 3",
+            "description": "DPM Nutrition",
             "date": "18/02/2024",
-            "value": "1280.00"
+            "value": "134,5"
         },
         {
             "id": 4,
-            "description": "Transazione 4",
+            "description": "Akko Penguin Silent Switches",
             "date": "17/02/2024",
-            "value": "-280.15"
+            "value": "-69.99"
         },
         {
             "id": 5,
-            "description": "Transazione 5",
+            "description": "Kica",
             "date": "16/02/2024",
-            "value": "1280.00"
+            "value": "669,42"
         },
         {
             "id": 6,
-            "description": "Transazione 6",
+            "description": "KBDFans Mechanical Keyboard",
             "date": "15/02/2024",
-            "value": "-280.15"
+            "value": "-182.1"
         },
         {
             "id": 7,
-            "description": "Transazione 7",
+            "description": "DPM Nutrition",
             "date": "14/02/2024",
-            "value": "1280.00"
+            "value": "345.3"
         },
         {
             "id": 8,
-            "description": "Transazione 8",
+            "description": "Concerto 50 Cent",
             "date": "13/02/2024",
-            "value": "-280.15"
+            "value": "-96.16"
         },
         {
             "id": 9,
-            "description": "Transazione 9",
+            "description": "Album Art Cover",
             "date": "12/02/2024",
-            "value": "1280.00"
+            "value": "284.03"
         },
         {
             "id": 10,
-            "description": "Transazione 10",
+            "description": "RTX 3080 Noctua",
             "date": "11/02/2024",
-            "value": "-280.15"
+            "value": "-603.15"
         },
 	{
             "id": 11,
-            "description": "Descrizione lunghissimissima per vedere che succede, chissà se esplode tutto? Lo scopriremo! :)",
+            "description": "All I know is what I feel\nDeceive my eyes and distort what's real\nOnly truth will set you free\nI'd rather die on my feet than to live on my knees",
             "date": "11/02/2024",
             "value": "-280.15"
         }
