@@ -71,6 +71,8 @@
         "id": 1,
         "name": "Il conto di Mooyee",
         "iban": "RO73PORL6874285947521345",
-        "amount": "420.69"
+        "amount": "420.69",
+        "month": 1,
+        "year": 77
     }
 }
